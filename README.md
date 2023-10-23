@@ -1,5 +1,5 @@
 
-- ![Image](https://icon-library.com/images/movies-icon-png/movies-icon-png-29.jpg)
+- ![image](https://thumbs.dreamstime.com/b/movie-symbols-14119963.jpg)
 
 # Movie Studios: What type of movies are doing best in the box office?
 **Authors**: Mytreyi Abburu Wes Smolen
