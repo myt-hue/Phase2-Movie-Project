@@ -45,7 +45,7 @@ b-rotten-tomatoes-metacritic-or-fandango-7d1010c6cf19/
 
 ## For more information
 Please visit our full analysis in our 
-For more questions, please feel free to reach us: ** Mytreyi Abburu | abburumk@gmail.com, Wes Smolen|wjsmolen@gmail.com.**
+For more questions, please feel free to reach us: ** Mytreyi Abburu | abburumk@gmail.com, Wes Smolen | wjsmolen@gmail.com.**
 
 ## Repository Structure
 
