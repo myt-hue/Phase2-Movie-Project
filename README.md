@@ -14,7 +14,7 @@ Through exploration of data from the tables in the IMDB database, we wrote a SQL
 First, we added a profits column which is the worldwidegross - production_budget. 
 Next, we added separate columns for the  6 genres (action, horror, romance, adventure, fantasy, comedy)  to deal with movies with multiple genres.  
 We made separate dataframes for each of the 6 genres 
-Commbined linear regression plot for 6 genres based on production_budget vs. Profit.
+
 ### Combined Linear Regression Plot for 6 Genres (Production_Budget vs. Profit)
 ![image](https://github.com/myt-hue/Phase2-Movie-Project/assets/73657823/01705774-b502-4958-b7cf-8fe61d4887db)
 
