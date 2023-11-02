@@ -49,6 +49,7 @@ b-rotten-tomatoes-metacritic-or-fandango-7d1010c6cf19/
 
 ## For more information
 Please visit our full analysis in our Jupyter notebook ![website](https://github.com/myt-hue/Phase2-Movie-Project/blob/main/Exploration_Notebook.ipynb) or presentation ![presentation](https://github.com/myt-hue/Phase2-Movie-Project/blob/main/presentation.pdf)
+Data taken from ![data](https://developer.imdb.com/non-commercial-datasets/), ![data](https://www.the-numbers.com/movie/budgets/all),![data](https://www.boxofficemojo.com/charts/)
 
 
 For more questions, please feel free to reach us:   Mytreyi Abburu | abburumk@gmail.com, Wes Smolen | wjsmolen@gmail.com. 
