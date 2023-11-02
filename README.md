@@ -35,7 +35,7 @@ October is the best month for Average Profit for Horror Movies Released
 
 
 ## Conclusion
-October is the best month to release horror movies in order to generate the most profit
+Horror movies perform best in the box office given the budget is less than 10 million dollars.  October is the best month to release horror movies in order to generate the most profit.
 ## Further Investigation 
 We plan to furthur analyze profit generation by country, identify up and coming directors while they’re still affordable, and reassess strategy once established and working with a higher budget.
 ## Additional Resources
