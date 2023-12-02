@@ -4,7 +4,7 @@
 # Movie Studios: What type of movies are doing best in the box office?
 **Authors**: Mytreyi Abburu, Wes Smolen
 ## Business Problem
-Our movie studio wants to make low budget movies and wants to make and is deciding what types of movies to make based on what   genre,   director, and month of release.
+Our movie studio wants to make low budget movies and wants and is deciding what types of movies to make based on what   genre,   director, and month of release.
 movies.
 
 ## Data Understanding
